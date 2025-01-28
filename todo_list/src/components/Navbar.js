@@ -23,7 +23,7 @@ const Navbar = () => {
           <li className="nav-item active">
             <Link to="/">
               <div className={"nav-link"} href="#">
-                Home
+                Todo List
               </div>
             </Link>
           </li>
